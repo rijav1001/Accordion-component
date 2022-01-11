@@ -1,0 +1,23 @@
+.accordion {
+    background-color: indianred;
+    padding: 2%;
+    text-align: center;
+    width: 50%;
+    margin: 2% auto;
+}
+
+.show {
+    display: block;
+    background: lightblue;
+}
+
+.shownone {
+    display: none;
+}
+
+.accordion h2 {
+    width: 50%;
+    padding: 2% 5%;
+    cursor: pointer;
+    border: 2px solid blueviolet;
+}
